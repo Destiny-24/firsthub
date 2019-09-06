@@ -1,0 +1,8 @@
+首次上传需要：
+1，git init 初始化为git的仓库
+2，git remote add<地址> 定制远程仓库地址
+例如：git remote add origin git@github.com:Destiny-24 /  -  .git
+3，git add . 或者git add<文件名>。前者为文件夹下发生变动的所有文件，
+4，git commit -m"描述" 
+5， 首次提交需要 git push -u origin master。
+
